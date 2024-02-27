@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CainanD
+- Bit sparse in here...
 
 <!---
 CainanD/CainanD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
